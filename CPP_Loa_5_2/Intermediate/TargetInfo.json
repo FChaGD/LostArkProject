@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CPP_Loa_5_2",
+			"Path": "C:\\UnrealEngine\\Projects\\CPP_Loa_5_2\\Source\\CPP_Loa_5_2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CPP_Loa_5_2Editor",
+			"Path": "C:\\UnrealEngine\\Projects\\CPP_Loa_5_2\\Source\\CPP_Loa_5_2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

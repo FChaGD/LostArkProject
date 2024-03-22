@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealEngine\\Projects\\CPP_Loa_5_2\\Source\\CPP_Loa_5_2\\CPP_Loa_5_2.Build.cs",
+		"C:\\UnrealEngine\\Projects\\CPP_Loa_5_2\\Source\\CPP_Loa_5_2.Target.cs",
+		"C:\\UnrealEngine\\Projects\\CPP_Loa_5_2\\Source\\CPP_Loa_5_2Editor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

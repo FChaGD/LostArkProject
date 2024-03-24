@@ -1255,3 +1255,218 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.24-06.22.39:037][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 291 ms (total: 752 ms)
 [2024.03.24-06.22.39:044][467]AssetCheck: New page: 에셋 저장:  TopDownMap
 [2024.03.24-06.22.39:044][467]LogContentValidation: Display: /Script/Engine.World /Game/Level/TopDownMap.TopDownMap 유효성 검사 중
+[2024.03.24-06.23.43:109][576]LogContentBrowser: Attempting asset rename: BPC_Force -> BPC_Stagger
+[2024.03.24-06.23.43:135][576]LogMetaData: Removing '/Game/AI_Enermy/Component/BPC_Stagger.BPC_Stagger_C' ref from Metadata '/Game/AI_Enermy/Component/BPC_Force.PackageMetaData'
+[2024.03.24-06.23.43:135][576]LogMetaData: Removing '/Game/AI_Enermy/Component/BPC_Stagger.BPC_Stagger_C:ReceiveBeginPlay' ref from Metadata '/Game/AI_Enermy/Component/BPC_Force.PackageMetaData'
+[2024.03.24-06.23.43:135][576]LogMetaData: Removing '/Game/AI_Enermy/Component/BPC_Stagger.SKEL_BPC_Stagger_C' ref from Metadata '/Game/AI_Enermy/Component/BPC_Force.PackageMetaData'
+[2024.03.24-06.23.43:135][576]LogMetaData: Removing '/Game/AI_Enermy/Component/BPC_Stagger.SKEL_BPC_Stagger_C:ReceiveBeginPlay' ref from Metadata '/Game/AI_Enermy/Component/BPC_Force.PackageMetaData'
+[2024.03.24-06.23.43:135][576]LogMetaData: Removing '/Game/AI_Enermy/Component/BPC_Stagger.SKEL_BPC_Stagger_C:ReceiveTick' ref from Metadata '/Game/AI_Enermy/Component/BPC_Force.PackageMetaData'
+[2024.03.24-06.23.43:135][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-06.23.43:293][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.24-06.23.43:295][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Enermy/Component/BPC_Stagger" FILE="../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Content/AI_Enermy/Component/BPC_Stagger.uasset" SILENT=true
+[2024.03.24-06.23.43:299][576]LogSavePackage: Moving output files for package: /Game/AI_Enermy/Component/BPC_Stagger
+[2024.03.24-06.23.43:299][576]LogSavePackage: Moving '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Saved/BPC_Stagger96EE01C449DA48D53022E3B8525CD54F.tmp' to '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Content/AI_Enermy/Component/BPC_Stagger.uasset'
+[2024.03.24-06.23.43:313][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 930 ms)
+[2024.03.24-06.23.43:349][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.03.24-06.23.43:371][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.03.24-06.23.43:393][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.24-06.23.43:399][576]AssetCheck: New page: 에셋 저장:  BPC_Stagger
+[2024.03.24-06.23.43:399][576]LogContentValidation: Display: /Script/Engine.Blueprint /Game/AI_Enermy/Component/BPC_Stagger.BPC_Stagger 유효성 검사 중
+[2024.03.24-06.23.54:599][246]LogContentBrowser: Attempting asset rename: BPC_Destroy -> BPC_PartDestruction
+[2024.03.24-06.23.54:623][246]LogMetaData: Removing '/Game/AI_Enermy/Component/BPC_PartDestruction.BPC_PartDestruction_C' ref from Metadata '/Game/AI_Enermy/Component/BPC_Destroy.PackageMetaData'
+[2024.03.24-06.23.54:623][246]LogMetaData: Removing '/Game/AI_Enermy/Component/BPC_PartDestruction.SKEL_BPC_PartDestruction_C' ref from Metadata '/Game/AI_Enermy/Component/BPC_Destroy.PackageMetaData'
+[2024.03.24-06.23.54:623][246]LogMetaData: Removing '/Game/AI_Enermy/Component/BPC_PartDestruction.SKEL_BPC_PartDestruction_C:ReceiveBeginPlay' ref from Metadata '/Game/AI_Enermy/Component/BPC_Destroy.PackageMetaData'
+[2024.03.24-06.23.54:623][246]LogMetaData: Removing '/Game/AI_Enermy/Component/BPC_PartDestruction.SKEL_BPC_PartDestruction_C:ReceiveTick' ref from Metadata '/Game/AI_Enermy/Component/BPC_Destroy.PackageMetaData'
+[2024.03.24-06.23.54:623][246]LogMetaData: Removing '/Game/AI_Enermy/Component/BPC_PartDestruction.BPC_PartDestruction:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AI_Enermy/Component/BPC_Destroy.PackageMetaData'
+[2024.03.24-06.23.54:623][246]LogMetaData: Removing '/Game/AI_Enermy/Component/BPC_PartDestruction.BPC_PartDestruction:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AI_Enermy/Component/BPC_Destroy.PackageMetaData'
+[2024.03.24-06.23.54:624][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-06.23.54:772][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.03.24-06.23.54:778][246]LogSavePackage: Moving output files for package: /Game/AI_Enermy/Component/BPC_PartDestruction
+[2024.03.24-06.23.54:778][246]LogSavePackage: Moving '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Saved/BPC_PartDestructionC2192A864814729047BEFAB1E18F624A.tmp' to '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Content/AI_Enermy/Component/BPC_PartDestruction.uasset'
+[2024.03.24-06.23.54:793][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 1.09 sec)
+[2024.03.24-06.23.54:867][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.03.24-06.23.54:891][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.03.24-06.23.54:913][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.03.24-06.23.54:920][246]AssetCheck: New page: 에셋 저장:  BPC_PartDestruction
+[2024.03.24-06.23.54:921][246]LogContentValidation: Display: /Script/Engine.Blueprint /Game/AI_Enermy/Component/BPC_PartDestruction.BPC_PartDestruction 유효성 검사 중
+[2024.03.24-06.23.55:691][288]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI_Enermy/Component/BPC_PartDestruction.BPC_PartDestruction
+[2024.03.24-06.23.55:692][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-06.23.55:692][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.24-06.24.05:272][834]LogLinker: Warning: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: '/Game/AI_Enermy/Structure/EnermyStat' 로드 실패: 파일을 찾을 수 없습니다.
+[2024.03.24-06.24.05:272][834]LogLinker: Warning: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: VerifyImport: Failed to load package for import object 'Package /Game/AI_Enermy/Structure/EnermyStat'
+[2024.03.24-06.24.05:276][834]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/AI_Enermy/AI_BluePrint/BP_EnermyBase.BP_EnermyBase_C:Stat'. Unknown structure.
+[2024.03.24-06.24.05:276][834]LogClass: Warning: Property Stat of Stat has a struct type mismatch (tag EnermyStat != prop FallbackStruct) in package:  /Game/AI_Enermy/AI_BluePrint/BP_EnermyBase. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2024.03.24-06.24.05:279][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] BP_EnermyBase 에 선언된 Stat 변수에 유효하지 않은 구조체 타입이 있습니다.
+[2024.03.24-06.24.05:283][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] BP_EnermyBase 에 선언된 Stat 변수에 유효하지 않은 구조체 타입이 있습니다.
+[2024.03.24-06.24.05:287][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Set Default Stagger  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.24.05:287][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Set Default Stagger  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.24.05:287][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Set Default Stagger  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.24.05:287][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  Max Stagger  핀은 더 이상  Set Default Stagger  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.24.05:287][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] BPC_Stagger_C'에서 "Set DefaultStagger" 라는 이름의 함수를 찾을 수 없습니다.
+ Set Default Stagger 에 대해 'BPC_Stagger_C' 컴파일이 되었는지 확인하세요.
+[2024.03.24-06.24.05:288][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Set Default Destruction  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.24.05:288][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Set Default Destruction  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.24.05:288][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  Destruction  핀은 더 이상  Set Default Destruction  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.24.05:288][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] BPC_PartDestruction_C'에서 "SetDefaultDestruction" 라는 이름의 함수를 찾을 수 없습니다.
+ Set Default Destruction 에 대해 'BPC_PartDestruction_C' 컴파일이 되었는지 확인하세요.
+[2024.03.24-06.24.05:288][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  Enermy Stat  핀은 더 이상  <unknown struct> 분해  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.24.05:288][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  HP  핀은 더 이상  <unknown struct> 분해  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.24.05:288][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  Max Stagger  핀은 더 이상  <unknown struct> 분해  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.24.05:288][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  Max Part Destruction  핀은 더 이상  <unknown struct> 분해  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.24.05:288][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] <unknown struct> 분해 에 구조체가 없습니다.
+[2024.03.24-06.24.05:289][834]LogBlueprint: Warning: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] BP_EnermyBase_C'에서 "Stat" 라는 이름의 변수를 찾을 수 없습니다.
+ Stat 구하기 에 대해 'BP_EnermyBase_C' 컴파일이 되었는지 확인하세요.
+[2024.03.24-06.24.05:290][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] '/Game/AI_Enermy/AI_BluePrint/BP_EnermyBase.BP_EnermyBase_C'에서  Stat 와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.03.24-06.24.05:290][834]LogBlueprint: Warning: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 이 구조체는 범용  <unknown struct> 분해  'break' 노드로 분해할 수 없습니다. 가능하다면 전용 'break' 함수를 사용해 보세요.
+[2024.03.24-06.24.05:290][834]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] <unknown struct> 분해 의 분해를 위해 알려지지 않은 구조체입니다.
+[2024.03.24-06.24.06:533][834]LogSlate: Window '메시지' being destroyed
+[2024.03.24-06.24.06:542][834]Message dialog closed, result: Ok, title: 메시지, text: 'Blueprint /Game/AI_Enermy/AI_BluePrint/BP_EnermyBase.BP_EnermyBase' 블루프린트의 다음 멤버 변수에 유효하지 않은 타입이 있습니다. 제거할까요? 
+
+Stat
+
+[2024.03.24-06.24.06:558][834]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/AI_Enermy/Hit_Animation/X_Bot_Stomach_Hit.X_Bot_Stomach_Hit
+[2024.03.24-06.24.06:558][834]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/AI_Enermy/Hit_Animation/X_Bot_Head_Hit2.X_Bot_Head_Hit2
+[2024.03.24-06.24.06:568][834]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/AI_Enermy/Hit_Animation/X_Bot_Idle.X_Bot_Idle
+[2024.03.24-06.24.08:629][947]BlueprintLog: New page: BPC_PartDestruction 컴파일
+[2024.03.24-06.24.08:662][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.03.24-06.24.09:392][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-06.24.09:515][989]LogSavePackage: Moving output files for package: /Game/AI_Enermy/Component/BPC_PartDestruction
+[2024.03.24-06.24.09:516][989]LogSavePackage: Moving '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Saved/BPC_PartDestruction9391F9A04906F683BC4389929AC1DDE5.tmp' to '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Content/AI_Enermy/Component/BPC_PartDestruction.uasset'
+[2024.03.24-06.24.09:527][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 1.23 sec)
+[2024.03.24-06.24.09:532][989]AssetCheck: New page: 에셋 저장:  BPC_PartDestruction
+[2024.03.24-06.24.09:532][989]LogContentValidation: Display: /Script/Engine.Blueprint /Game/AI_Enermy/Component/BPC_PartDestruction.BPC_PartDestruction 유효성 검사 중
+[2024.03.24-06.24.11:637][111]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI_Enermy/Component/BPC_Stagger.BPC_Stagger
+[2024.03.24-06.24.11:637][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-06.24.11:637][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.24-06.24.19:242][552]LogHttp: Warning: 0000082DF447DC00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B153DDB20-46A3-1759-A926-F29190502AB4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e65e8bf84269834f3ab8388f8cfe295d%7Caaacf9cbdb9a444dad56c135ffad2499%7Ca92f0aaa-cf88-4166-bf86-f48f52ef3136&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.24-06.24.19:242][552]LogHttp: Warning: 0000082DF447DC00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-06.24.19:242][552]LogHttp: Warning: 0000082DF447DC00: libcurl info message cache 0 (Found bundle for host: 0x82d8b960780 [serially])
+[2024.03.24-06.24.19:242][552]LogHttp: Warning: 0000082DF447DC00: libcurl info message cache 1 (Re-using existing connection #1 with host datarouter.ol.epicgames.com)
+[2024.03.24-06.24.19:242][552]LogHttp: Warning: 0000082DF447DC00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.221.151.99) port 443 (#1))
+[2024.03.24-06.24.19:242][552]LogHttp: Warning: 0000082DF447DC00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.24-06.24.19:242][552]LogHttp: Warning: 0000082DF447DC00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-06.24.19:242][552]LogHttp: Warning: 0000082DF447DC00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-06.24.19:242][552]LogHttp: Warning: 0000082DF447DC00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.24-06.24.19:242][552]LogHttp: Warning: 0000082DF447DC00: libcurl info message cache 7 (Closing connection 1)
+[2024.03.24-06.24.19:243][552]LogHttp: Warning: 0000082DF447DC00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-06.24.19:243][552]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B153DDB20-46A3-1759-A926-F29190502AB4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e65e8bf84269834f3ab8388f8cfe295d%7Caaacf9cbdb9a444dad56c135ffad2499%7Ca92f0aaa-cf88-4166-bf86-f48f52ef3136&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-06.25.08:136][433]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-06.25.08:162][434]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-06.25.08:248][434]LogShaderCompilers: Display: ================================================
+[2024.03.24-06.25.08:248][434]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.24-06.25.08:248][434]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2024.03.24-06.25.08:248][434]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 2 distinct outputs (50.00%)
+[2024.03.24-06.25.08:248][434]LogShaderCompilers: Display: RAM used: 89.62 KiB of 819.20 MiB budget. Usage: 0.01%
+[2024.03.24-06.25.08:248][434]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.24-06.25.08:248][434]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.03.24-06.25.08:248][434]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.03.24-06.25.08:248][434]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.03.24-06.25.08:248][434]LogShaderCompilers: Display: ================================================
+[2024.03.24-06.25.08:279][436]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-06.25.08:332][437]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-06.25.18:730][ 55]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-06.25.18:767][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-06.25.39:075][254]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI_Enermy/AI_BluePrint/BP_EnermyBase.BP_EnermyBase
+[2024.03.24-06.25.39:076][254]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-06.25.39:076][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.24-06.25.54:636][150]BlueprintLog: New page: BP_EnermyBase 컴파일
+[2024.03.24-06.25.54:641][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Set Default Stagger  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.25.54:641][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Set Default Stagger  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.25.54:641][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Set Default Stagger  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.25.54:641][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  Max Stagger  핀은 더 이상  Set Default Stagger  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.25.54:641][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] BPC_Stagger_C'에서 "Set DefaultStagger" 라는 이름의 함수를 찾을 수 없습니다.
+ Set Default Stagger 에 대해 'BPC_Stagger_C' 컴파일이 되었는지 확인하세요.
+[2024.03.24-06.25.54:641][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Set Default Destruction  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.25.54:642][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Set Default Destruction  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.25.54:642][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  Destruction  핀은 더 이상  Set Default Destruction  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.25.54:642][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] BPC_PartDestruction_C'에서 "SetDefaultDestruction" 라는 이름의 함수를 찾을 수 없습니다.
+ Set Default Destruction 에 대해 'BPC_PartDestruction_C' 컴파일이 되었는지 확인하세요.
+[2024.03.24-06.25.54:642][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  HP  핀은 더 이상  <unknown struct> 분해  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.25.54:642][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  Max Stagger  핀은 더 이상  <unknown struct> 분해  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.25.54:642][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 사용 중인  Max Part Destruction  핀은 더 이상  <unknown struct> 분해  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.03.24-06.25.54:642][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] <unknown struct> 분해 에 구조체가 없습니다.
+[2024.03.24-06.25.54:644][150]LogBlueprint: Warning: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] 이 구조체는 범용  <unknown struct> 분해  'break' 노드로 분해할 수 없습니다. 가능하다면 전용 'break' 함수를 사용해 보세요.
+[2024.03.24-06.25.54:644][150]LogBlueprint: Error: [AssetLog] C:\Users\addmin\Desktop\Unreal\CPP_Loa_5_2\CPP_Loa_5_2\Content\AI_Enermy\AI_BluePrint\BP_EnermyBase.uasset: [Compiler] <unknown struct> 분해 의 분해를 위해 알려지지 않은 구조체입니다.
+[2024.03.24-06.25.54:695][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.03.24-06.26.03:717][636]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.03.24-06.27.04:181][863]BlueprintLog: New page: BPC_Stagger 컴파일
+[2024.03.24-06.27.04:225][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.03.24-06.27.07:613][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-06.27.07:836][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.03.24-06.27.07:862][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.03.24-06.27.07:885][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.24-06.27.07:901][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 288 ms (total: 1.52 sec)
+[2024.03.24-06.27.19:316][601]LogHttp: Warning: 0000082DFB4F2800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B153DDB20-46A3-1759-A926-F29190502AB4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e65e8bf84269834f3ab8388f8cfe295d%7Caaacf9cbdb9a444dad56c135ffad2499%7Ca92f0aaa-cf88-4166-bf86-f48f52ef3136&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.24-06.27.19:316][601]LogHttp: Warning: 0000082DFB4F2800: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-06.27.19:316][601]LogHttp: Warning: 0000082DFB4F2800: libcurl info message cache 0 (Found bundle for host: 0x82d8b960ed0 [serially])
+[2024.03.24-06.27.19:316][601]LogHttp: Warning: 0000082DFB4F2800: libcurl info message cache 1 (Re-using existing connection #2 with host datarouter.ol.epicgames.com)
+[2024.03.24-06.27.19:316][601]LogHttp: Warning: 0000082DFB4F2800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.198.139.189) port 443 (#2))
+[2024.03.24-06.27.19:316][601]LogHttp: Warning: 0000082DFB4F2800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.24-06.27.19:316][601]LogHttp: Warning: 0000082DFB4F2800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-06.27.19:316][601]LogHttp: Warning: 0000082DFB4F2800: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-06.27.19:316][601]LogHttp: Warning: 0000082DFB4F2800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.24-06.27.19:316][601]LogHttp: Warning: 0000082DFB4F2800: libcurl info message cache 7 (Closing connection 2)
+[2024.03.24-06.27.19:316][601]LogHttp: Warning: 0000082DFB4F2800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-06.27.19:316][601]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B153DDB20-46A3-1759-A926-F29190502AB4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e65e8bf84269834f3ab8388f8cfe295d%7Caaacf9cbdb9a444dad56c135ffad2499%7Ca92f0aaa-cf88-4166-bf86-f48f52ef3136&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-06.27.40:842][704]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2024.03.24-06.27.40:858][704]LogContentBrowser: Creating deferred item: 새 폴더
+[2024.03.24-06.27.40:871][705]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2024.03.24-06.27.47:861][ 97]LogContentBrowser: Attempting asset rename: 새 폴더 -> Structure
+[2024.03.24-06.27.47:861][ 97]LogContentBrowser: End creating deferred item 새 폴더
+[2024.03.24-06.27.53:239][339]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2024.03.24-06.27.53:250][339]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2024.03.24-06.27.53:311][341]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2024.03.24-06.27.56:028][486]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> Structure
+[2024.03.24-06.27.56:064][486]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2024.03.24-06.28.03:015][897]LogContentBrowser: Attempting asset rename: Structure -> EnermyStat
+[2024.03.24-06.28.03:038][897]LogMetaData: Removing '/Game/AI_Enermy/Structure/EnermyStat.EnermyStat' ref from Metadata '/Game/AI_Enermy/Structure/Structure.PackageMetaData'
+[2024.03.24-06.28.03:040][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-06.28.03:170][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Enermy/Structure/EnermyStat" FILE="../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Content/AI_Enermy/Structure/EnermyStat.uasset" SILENT=true
+[2024.03.24-06.28.03:171][897]LogSavePackage: Moving output files for package: /Game/AI_Enermy/Structure/EnermyStat
+[2024.03.24-06.28.03:171][897]LogSavePackage: Moving '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Saved/EnermyStat4C45B3B8493946B0761AB3B4E4A5D49E.tmp' to '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Content/AI_Enermy/Structure/EnermyStat.uasset'
+[2024.03.24-06.28.03:189][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 1.67 sec)
+[2024.03.24-06.28.03:229][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.03.24-06.28.03:258][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.03.24-06.28.03:281][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.24-06.28.03:289][897]AssetCheck: New page: 에셋 저장:  EnermyStat
+[2024.03.24-06.28.03:289][897]LogContentValidation: Display: /Script/Engine.UserDefinedStruct /Game/AI_Enermy/Structure/EnermyStat.EnermyStat 유효성 검사 중
+[2024.03.24-06.28.04:676][979]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/AI_Enermy/Structure/EnermyStat.EnermyStat
+[2024.03.24-06.28.10:591][318]LogSlate: Took 0.001039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.03.24-06.29.03:002][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-06.29.03:147][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Enermy/Structure/EnermyStat" FILE="../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Content/AI_Enermy/Structure/EnermyStat.uasset" SILENT=true
+[2024.03.24-06.29.03:150][389]LogSavePackage: Moving output files for package: /Game/AI_Enermy/Structure/EnermyStat
+[2024.03.24-06.29.03:150][389]LogSavePackage: Moving '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Saved/EnermyStatC2A11D83435FEEE116A4AA98B5C8C2AC.tmp' to '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Content/AI_Enermy/Structure/EnermyStat.uasset'
+[2024.03.24-06.29.03:163][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 1.83 sec)
+[2024.03.24-06.29.03:176][389]AssetCheck: New page: 에셋 저장:  EnermyStat
+[2024.03.24-06.29.03:176][389]LogContentValidation: Display: /Script/Engine.UserDefinedStruct /Game/AI_Enermy/Structure/EnermyStat.EnermyStat 유효성 검사 중
+[2024.03.24-06.30.51:437][389]BlueprintLog: New page: BPC_PartDestruction 컴파일
+[2024.03.24-06.30.51:490][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.03.24-06.32.08:596][874]BlueprintLog: New page: BPC_PartDestruction 컴파일
+[2024.03.24-06.32.08:641][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.03.24-06.32.11:164][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-06.32.11:307][ 22]LogSavePackage: Moving output files for package: /Game/AI_Enermy/Component/BPC_PartDestruction
+[2024.03.24-06.32.11:309][ 22]LogSavePackage: Moving '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Saved/BPC_PartDestructionF99F9B5E4FCD6EABC48092BD23A5A3B3.tmp' to '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Content/AI_Enermy/Component/BPC_PartDestruction.uasset'
+[2024.03.24-06.32.11:320][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 1.98 sec)
+[2024.03.24-06.32.11:327][ 22]AssetCheck: New page: 에셋 저장:  BPC_PartDestruction
+[2024.03.24-06.32.11:327][ 22]LogContentValidation: Display: /Script/Engine.Blueprint /Game/AI_Enermy/Component/BPC_PartDestruction.BPC_PartDestruction 유효성 검사 중
+[2024.03.24-06.32.19:452][495]LogHttp: Warning: 0000082DF67DDC00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B153DDB20-46A3-1759-A926-F29190502AB4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e65e8bf84269834f3ab8388f8cfe295d%7Caaacf9cbdb9a444dad56c135ffad2499%7Ca92f0aaa-cf88-4166-bf86-f48f52ef3136&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.24-06.32.19:452][495]LogHttp: Warning: 0000082DF67DDC00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-06.32.19:452][495]LogHttp: Warning: 0000082DF67DDC00: libcurl info message cache 0 (Found bundle for host: 0x82d8b960810 [serially])
+[2024.03.24-06.32.19:452][495]LogHttp: Warning: 0000082DF67DDC00: libcurl info message cache 1 (Re-using existing connection #3 with host datarouter.ol.epicgames.com)
+[2024.03.24-06.32.19:452][495]LogHttp: Warning: 0000082DF67DDC00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.87.42.162) port 443 (#3))
+[2024.03.24-06.32.19:452][495]LogHttp: Warning: 0000082DF67DDC00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.24-06.32.19:452][495]LogHttp: Warning: 0000082DF67DDC00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-06.32.19:452][495]LogHttp: Warning: 0000082DF67DDC00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-06.32.19:452][495]LogHttp: Warning: 0000082DF67DDC00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.24-06.32.19:452][495]LogHttp: Warning: 0000082DF67DDC00: libcurl info message cache 7 (Closing connection 3)
+[2024.03.24-06.32.19:452][495]LogHttp: Warning: 0000082DF67DDC00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-06.32.19:452][495]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B153DDB20-46A3-1759-A926-F29190502AB4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=e65e8bf84269834f3ab8388f8cfe295d%7Caaacf9cbdb9a444dad56c135ffad2499%7Ca92f0aaa-cf88-4166-bf86-f48f52ef3136&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-06.32.40:159][627]BlueprintLog: New page: BP_EnermyBase 컴파일
+[2024.03.24-06.32.40:226][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.03.24-06.32.41:330][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-06.32.41:455][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-06.32.41:535][685]LogSavePackage: Moving output files for package: /Game/AI_Enermy/AI_BluePrint/BP_EnermyBase
+[2024.03.24-06.32.41:535][685]LogSavePackage: Moving '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Saved/BP_EnermyBase1B80FEB34A6A308AD7062D8D5634247E.tmp' to '../../../../../../Users/addmin/Desktop/Unreal/CPP_Loa_5_2/CPP_Loa_5_2/Content/AI_Enermy/AI_BluePrint/BP_EnermyBase.uasset'
+[2024.03.24-06.32.41:549][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 2.20 sec)
+[2024.03.24-06.32.41:556][685]AssetCheck: New page: 에셋 저장:  BP_EnermyBase
+[2024.03.24-06.32.41:556][685]LogContentValidation: Display: /Script/Engine.Blueprint /Game/AI_Enermy/AI_BluePrint/BP_EnermyBase.BP_EnermyBase 유효성 검사 중

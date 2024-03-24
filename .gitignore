@@ -73,3 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 CPP_Loa_5_2/Intermediate/ProjectFiles/UE5.vcxproj.xml
+/CPP_Loa_5_2/Saved/Logs
+/CPP_Loa_5_2/Saved
